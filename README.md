@@ -181,3 +181,5 @@ Full API docs: `https://your-url.trycloudflare.com/docs`
 - [r/StableDiffusion](https://reddit.com/r/StableDiffusion)
 
 ---
+
+**Star the repo if this saved you time!**
